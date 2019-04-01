@@ -7,7 +7,8 @@ window in Linux, the command prompt in Windows).
 
 Navigate to the project directory and type in the following command:
 
-```bash(or)terminal
+```
+bash(or)terminal
 python movies.py
 ```
 
